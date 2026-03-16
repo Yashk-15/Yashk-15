@@ -59,16 +59,6 @@
 
 ---
 
-### 📈 Contribution Graph
-
-<p align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Yashk-15&theme=redical&hide_border=true&cache_seconds=1800" 
-    alt="Contribution Graph"
-  />
-</p>
-
----
 
 ### 🌐 Connect With Me
 
