@@ -18,7 +18,7 @@
 ### 🛠️ Tech Stack
 
 **Languages**  
-`C` `C++` `Python` `Java`
+`C` `C++` `Python`
 
 **Frontend**  
 `HTML` `Tailwind CSS` `React.js` `Next.js` `Flutter`
@@ -78,10 +78,6 @@
 </p>
 
 ---
-
-### ⚡ Fun Fact
-
-> "The best code is no code at all — but if you have to write it, make it clean."
 
 ---
 
