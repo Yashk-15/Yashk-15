@@ -55,34 +55,35 @@
 - Solving Data Structures & Algorithms problems
 - Primary Language: C++
 
-<p align="left">
-  <a href="https://leetcode.com/u/Yk15/">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
+<p align="center">
+  <a href="https://leetcode.com/u/YOUR_USERNAME/">
+    <img src="https://leetcard.jacoblin.cool/YOUR_USERNAME?theme=dark&font=Karma&ext=heatmap" />
   </a>
 </p>
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Yashk-15&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800&count_private=true&include_all_commits=true"
-    height="165"
+    src="https://github-readme-stats.vercel.app/api?username=Yashk-15&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+    height="180"
   />
+  
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashk-15&layout=compact&theme=radical&hide_border=true&cache_seconds=1800&langs_count=8"
-    height="165"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashk-15&layout=compact&theme=tokyonight&hide_border=true"
+    height="180"
   />
 </p>
 
 ---
 
-### 🔥 GitHub Streak
+## 🔥 GitHub Streak
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=Yashk-15&theme=radical&hide_border=true&cache_seconds=1800"
+    src="https://streak-stats.demolab.com?user=Yashk-15&theme=tokyonight&hide_border=true"
   />
 </p>
 
