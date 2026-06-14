@@ -2,7 +2,7 @@
 
 # Yash Kaushik
 
-**Computer Science Undergraduate &nbsp;·&nbsp; SRM Institute of Science and Technology &nbsp;·&nbsp; Class of 2025**
+**Computer Science Student &nbsp;·&nbsp; SRM Institute of Science and Technology &nbsp;·&nbsp; Class of 2027**
 
 ![AWS SAA](https://img.shields.io/badge/AWS_Solutions_Architect-Associate-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
 ![AWS CCP](https://img.shields.io/badge/AWS_Cloud_Practitioner-Certified-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
@@ -23,7 +23,6 @@ Final-year CSE student targeting **SDE** and **Cloud/Backend engineering** roles
 
 **Currently:**
 - Sharpening DSA fundamentals in C++ with consistent daily practice
-- Studying system design — scalability, microservices, and distributed patterns
 - Building serverless applications with AWS Lambda, API Gateway, and DynamoDB
 - Open to full-time SDE and Cloud/Backend opportunities
 
@@ -48,7 +47,6 @@ Final-year CSE student targeting **SDE** and **Cloud/Backend engineering** roles
 
 **Backend & Databases**
 &nbsp;
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST%20APIs-000000?style=flat-square&logo=fastapi&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
 
