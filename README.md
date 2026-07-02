@@ -1,9 +1,10 @@
 <div align="center">
 
-
-# Yash Kaushik
+# Hey there 👋, I'm Yash Kaushik
 
 **Computer Science Student &nbsp;·&nbsp; SRM Institute of Science and Technology &nbsp;·&nbsp; Class of 2027**
+
+### Shipping serverless, thinking distributed
 
 ![AWS SAA](https://img.shields.io/badge/AWS_Solutions_Architect-Associate-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
 ![AWS CCP](https://img.shields.io/badge/AWS_Cloud_Practitioner-Certified-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
@@ -22,10 +23,10 @@
 
 Final-year CSE student targeting **SDE** and **Cloud/Backend engineering** roles. I build across the full stack with a focused interest in cloud architecture, distributed systems, and serverless patterns on AWS.
 
-**Currently:**
-- Sharpening DSA fundamentals in C++ with consistent daily practice
-- Building serverless applications with AWS Lambda, API Gateway, and DynamoDB
-- Open to full-time SDE and Cloud/Backend opportunities
+- 🚀 Currently sharpening DSA fundamentals in C++ with consistent daily practice
+- ☁️ Building serverless applications with AWS Lambda, API Gateway, and DynamoDB
+- 📫 Ask me about **AWS, Serverless Architecture, Full-Stack Development**
+- 🟢 Open to full-time SDE and Cloud/Backend opportunities
 
 ---
 
@@ -82,13 +83,13 @@ Final-year CSE student targeting **SDE** and **Cloud/Backend engineering** roles
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Yashk-15&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"
+    src="https://github-readme-stats-sage-delta-11.vercel.app/api?username=Yashk-15&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
     height="175"
     alt="GitHub Stats"
   />
   &nbsp;
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashk-15&layout=compact&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats-sage-delta-11.vercel.app/api/top-langs/?username=Yashk-15&layout=compact&theme=tokyonight&hide_border=true"
     height="175"
     alt="Top Languages"
   />
