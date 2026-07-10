@@ -32,42 +32,12 @@ Final-year CSE student targeting **SDE** and **Cloud/Backend engineering** roles
 
 ## Tech Stack
 
-**Languages**
-&nbsp;
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
-
-**Frontend**
-&nbsp;
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
-
-**Backend & Databases**
-&nbsp;
-![REST APIs](https://img.shields.io/badge/REST%20APIs-000000?style=flat-square&logo=fastapi&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
-
-**Cloud – AWS**
-&nbsp;
-![Lambda](https://img.shields.io/badge/Lambda-%23FF9900.svg?style=flat-square&logo=aws-lambda&logoColor=white)
-![API Gateway](https://img.shields.io/badge/API_Gateway-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-FF9900?style=flat-square&logo=amazon-dynamodb&logoColor=white)
-![Cognito](https://img.shields.io/badge/Cognito-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
-![EventBridge](https://img.shields.io/badge/EventBridge-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
-![SNS](https://img.shields.io/badge/SNS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
-
-**Tools**
-&nbsp;
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-
----
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,py,js&theme=dark" /><br/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,flutter,html,css,tailwind&theme=dark" /><br/>
+  <img src="https://skillicons.dev/icons?i=firebase,mysql,aws&theme=dark" /><br/>
+  <img src="https://skillicons.dev/icons?i=git,vscode,vercel&theme=dark" />
+</p>
 
 ## DSA Practice
 
