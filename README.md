@@ -21,7 +21,7 @@
 
 ## About
 
-Final-year CSE student targeting **SDE** and **Cloud/Backend engineering** roles. I build across the full stack with a focused interest in cloud architecture, distributed systems, and serverless patterns on AWS.
+Final-year CSE student targeting **SDE** and **Cloud/Full Stack engineering** roles. I build across the full stack with a focused interest in cloud architecture, distributed systems, and serverless patterns on AWS.
 
 - 🚀 Currently sharpening DSA fundamentals in C++ with consistent daily practice
 - ☁️ Building serverless applications with AWS Lambda, API Gateway, and DynamoDB
